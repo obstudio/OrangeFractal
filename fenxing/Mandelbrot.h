@@ -2,7 +2,6 @@
 #include"stdafx.h"
 #include"structures.h"
 #include"functions.h"
-/*朱秋熹*/
 /////////////////函数声明///////////////////////
 int MandelbrotView(int wid, int hei);//Mandelbrot集绘制窗体
 int M_Initialize(Fractal*mandelbrot, int wid, int hei);//Mandelbrot集窗体初始化

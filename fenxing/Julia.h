@@ -2,7 +2,6 @@
 #include"stdafx.h"
 #include"structures.h"
 #include"functions.h"
-/*许嘉禾*/
 /////////////////函数声明///////////////////////
 int JuliaView(int wid, int hei);//Julia集绘制窗体
 int J_Initialize(Fractal*julia, int wid, int hei);//Julia集窗体初始化

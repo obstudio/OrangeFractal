@@ -1,6 +1,5 @@
 #include"MainMenu.h"
 using namespace std;
-/*ÌÆê¿ì¿*/
 //MainMenu´°¿Ú
 int MainMenu() {
 	int cont ;

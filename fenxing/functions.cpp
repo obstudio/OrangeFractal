@@ -2,7 +2,6 @@
 #include"structures.h"
 #include"functions.h"
 using namespace std;
-/*许嘉禾*/
 /////////////////Button通用/////////////////////
 //确定按钮行数
 int Button_rows(Button*button, int ButtonCount) {

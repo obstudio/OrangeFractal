@@ -1,6 +1,5 @@
 #include"Mandelbrot.h"
 using namespace std;
-/*朱秋熹*/
 //mandelbrot集窗口
 int MandelbrotView(int wid, int hei) {
 	Fractal mandelbrot;//创建Fractal窗体结构

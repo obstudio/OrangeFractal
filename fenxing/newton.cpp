@@ -1,6 +1,5 @@
 #include"Newton.h"
 using namespace std;
-/*周宇*/
 //newton集窗口
 int NewtonView(int wid, int hei) {
 	Fractal newton;//创建Fractal窗体结构

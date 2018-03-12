@@ -3,7 +3,6 @@
 #include"stdafx.h"
 #include"structures.h"
 #include"functions.h"
-/*周宇*/
 /////////////////函数声明///////////////////////
 int NewtonView(int wid, int hei);//newton集绘制窗体
 int N_Initialize(Fractal*newton, int wid, int hei);//newton集窗体初始化

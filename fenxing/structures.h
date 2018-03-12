@@ -1,6 +1,5 @@
 #pragma once
 #include"stdafx.h"
-/*许嘉禾*/
 enum button_type { jUlia, hElp, cOlorbar, xM, xN, yM, yN, aB, pAint, cLear, sAve, bAck, qUit,  tAn90 };
 ///////////////结构体定义/////////////////////
 struct XYRange {//坐标范围

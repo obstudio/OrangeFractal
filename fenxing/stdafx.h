@@ -6,5 +6,4 @@
 #include<iostream>
 #include<Windows.h>
 #pragma comment(lib,"winmm.lib")
-/*Ðí¼ÎºÌ*/
 

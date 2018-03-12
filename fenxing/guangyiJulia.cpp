@@ -1,6 +1,5 @@
 #include"guangyiJulia.h"
 using namespace std;
-/*周宇*/
 //guangyijulia集窗口
 int gJuliaView(int wid, int hei) {
 	Fractal gjulia;//创建Fractal窗体结构

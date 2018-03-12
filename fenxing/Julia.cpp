@@ -1,6 +1,5 @@
 #include"Julia.h"
 using namespace std;
-/*许嘉禾*/
 //julia集窗口
 int JuliaView(int wid, int hei) {
 	Fractal julia;//创建Fractal窗体结构
